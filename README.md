@@ -9,6 +9,17 @@ By using this program one can easily install docker and use it as normal operati
 here is complete guide to make comfortable with you with the following project.
 One can launch a complete wordress server with mysql database within one single click.
 
+Requirements to run the project:
+1. You should be in Redhat linux
+2. You should have python3 installed in your rhel 
+3. Yum should be configured
+
+How to run:
+1. First you have to download all three files in one single folder
+2. Then run dockerproject.py file using python3 
+    Eg: python3 dockerProject.py
+Then you can use this for further options available in it.
+
 How to use:
 1. First you have to download all the three file in one single folder in your redhat.
 2. Then follow the below instructions according to your use:
