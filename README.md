@@ -19,7 +19,7 @@ How to run:
 2. Then run dockerproject.py file using python3 
     
 Eg:
-      ** python3 dockerProject.py **
+      **python3 dockerProject.py**
 
 Then you can use this for further options available in it.
 
