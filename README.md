@@ -52,6 +52,7 @@ Then you can use this for further options available in it.
 
  # Some important about basic setup
    By default:
+
     > Database User name :  redhat
     > Database root password : rootpass
     > Databse password : redhat
