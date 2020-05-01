@@ -18,7 +18,8 @@ How to run:
 1. First you have to download all three files in one single folder
 2. Then run dockerproject.py file using python3 
     
-Eg: #python3 dockerProject.py
+Eg:
+       python3 dockerProject.py
 
 Then you can use this for further options available in it.
 
