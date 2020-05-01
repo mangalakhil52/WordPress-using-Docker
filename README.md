@@ -51,16 +51,20 @@ Then you can use this for further options available in it.
  Press 7 to see docker containers running at present.
 
  # Some important about basic setup
-By default:
-       User name : redhat
-                                                                           
+   By default:
+    > Database User name :  redhat
+    > Database root password : rootpass
+    > Databse password : redhat
+    > Database name : mydb
+You can change by using docker-compose.yml file.
+  # Official link for reference                                                                          
   Here are some official links for your reference about docker:
   https://www.docker.com/
 
-
+ # Contact details 
   In case of any query regarding project : 
    LinkedIn: https://www.linkedin.com/in/akhïł-måñgâľ-85082a193
    Email : mangalakhil524@gmail.com
 
-Thank you
+## Thank you
            
